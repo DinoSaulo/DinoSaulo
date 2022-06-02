@@ -5,9 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinosaulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinosaulo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div align="center">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Dino-Cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
@@ -35,8 +32,38 @@
   ![Snake animation](https://github.com/dinosaulo/dinosaulo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+  ##
+  
+ ### Um pouco mais sobre mim:
 
 - 🔭 QA Anayst / QA Engineer em Projeto CIn/Samsung
 - 🌱 Estou aprenderndo Cypress
 - ⚡ Fun fact: Meu apelido no trabalho era 'Buguinho'
--->
+
+   ##
+  
+ ### Alguns projetos legais que desenvolvi ou estou desenvolvendo:
+ 
+ <div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=seubarriga_api_cypress_automation"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=seubarriga-cypress-automation"/>
+</div>
+ <div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=Automacao_Testes_UI_Lojinha"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=Automacao_Testes_UI_Lojinha"/>
+</div>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=tc_automation_module1"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=tc_automation_module2"/>
+</div>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=Automacao_Testes_UI_Lojinha"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=Automacao_Testes_API_Lojinha"/>
+</div>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=FAST-maven-plugin"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinosaulo&repo=maven-FAST"/>
+</div>
+
+
