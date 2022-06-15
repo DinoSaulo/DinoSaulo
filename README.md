@@ -1,5 +1,19 @@
 ### Hello World! Eu sou Saulo Barros. 👋
 
+<img align="right" width="275" src="https://qatestingxperts.weebly.com/uploads/1/2/0/7/120765765/published/giphy.gif?1532528707" />
+
+```JavaScript
+const SauloBarros = {
+  name: "Saulo Barros",
+  current_job: {job_title: "Test Engineer", company "Projeto CIn/Samsung" }
+  area: "QA and Software Testing",
+  languages_that_i_use: ["Python", "JavaScript", "Java", "C#", "PHP"],
+  fun_fact: "Meu apelido no trabalho era 'Buguinho'"
+};
+```
+
+##
+
 <div align="center">
   <a href="https://github.com/dinosaulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinosaulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,14 +47,6 @@
  
 </div>
  
-  ##
-  
- ### Um pouco mais sobre mim:
-
-- 🔭 QA Anayst / QA Engineer em Projeto CIn/Samsung
-- 🌱 Estou aprenderndo Cypress
-- ⚡ Fun fact: Meu apelido no trabalho era 'Buguinho'
-
    ##
   
  ### Alguns projetos legais que desenvolvi ou estou desenvolvendo: ⬇️
