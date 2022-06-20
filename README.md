@@ -5,7 +5,7 @@
 ```JavaScript
 const SauloBarros = {
   name: "Saulo Barros",
-  current_job: {job_title: "Test Engineer", company: "Projeto CIn/Samsung" }
+  current_job: {job_title: "Test Engineer", company: "Projeto CIn/Samsung" },
   area: "QA and Software Testing",
   languages_that_i_use: ["Python", "JavaScript", "Java", "C#", "PHP"],
   fun_fact: "Meu apelido no trabalho era 'Buguinho'"
