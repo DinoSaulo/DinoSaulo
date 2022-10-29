@@ -8,7 +8,7 @@ const SauloBarros = {
   current_job: {job_title: "Test Automation Engineer", company: "RDI Software" },
   area: "QA and Software Testing",
   languages_that_i_use: ["Python", "JavaScript", "Java", "C#", "PHP"],
-  tools_that_i_use: ["Cypress", "Selenium", "Node.js", "Laravel", "Django", "Others..."],
+  tools_that_i_use: ["Cypress", "Selenium", "Node.js", "Django", "Others..."],
   fun_fact: "Meu apelido no trabalho era 'Buguinho'"
 };
 ```
